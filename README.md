@@ -1,4 +1,4 @@
 Lab Results System
 ------------------
 
-See the src/ folder for the initial iOS project Lab Results NZ.
+See the Lab Results/ folder for the initial iOS project Lab Results NZ.
